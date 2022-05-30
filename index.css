@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
+h1 {
+    color: 000020;
+    font-size: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: -5;
+
+}
+
+.imagen1 {
+    margin: 40px;
+}
+
+.ullist {
+    font-size: 16px;
+
+}
+
+.hola1 {
+    background-color;: chocolate
+}
