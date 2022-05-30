@@ -1,8 +1,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 10px;
+    margin: 5px;
 }
-
 h1 {
     color: blue;
     font-size: 32px;
@@ -10,19 +9,23 @@ h1 {
 ul {
     list-style-type: none;
     padding: -5;
-
 }
-
 .imagen1 {
-    margin: 40px;
+    margin: 0px;
 }
-
 .ullist {
-    font-size: 16px;
-
+    font-size: 12px;
+    margin: 0px;
+}
+h2 {
+    color: brown;
 }
 
-.hola1 {
-    background-color;: chocolate
+b {
+    color: blue;
+}
+.listblanca {
+    margin: 0;
+    padding-left: 0px;
 }
 
